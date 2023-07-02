@@ -77,5 +77,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral fellow in the Buzsáki lab at NYU School of Medicine in New York. I combine transcranial electrical stimulation (TES) in rodents with large-scale electrophysiology using Neuropixels and flexible probes, optogenetics, fiber-photometry, and BOLD-fMRI. 
+After completing my medical degree, I started my PhD in neuroscience at the University of Szeged in Hungary. The major goals of my PhD research were to better understand the exact mechanisms by which TES could alter ongoing neural activity and to improve the spatial targeting of noninvasive neurostimulation therapies. 
 {style="text-align: justify;"}

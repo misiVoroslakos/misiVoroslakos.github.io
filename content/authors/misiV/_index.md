@@ -18,7 +18,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: NYU Grossman School of Medicine
+  - name: NYU Grossman School of Medicine  
   - lab: Buzsaki Lab
     url: https://buzsakilab.com/
 

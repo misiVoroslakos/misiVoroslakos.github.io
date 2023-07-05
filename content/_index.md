@@ -44,10 +44,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: TES-fMRI
-          tag: TES-fMRI
         - name: Circuit-resonance
           tag: Circuit-resonance
+        - name: TES-fMRI
+          tag: TES-fMRI
         - name: ThermoMaze 
           tag: ThermoMaze
         - name: Brain-body 

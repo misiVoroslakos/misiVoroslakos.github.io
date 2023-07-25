@@ -1,5 +1,5 @@
 ---
-title: Brain-body 
+title: Brain-body relationships
 summary: Understanding connections between the brain and body in health and disease.
 tags:
   - Brain-body

@@ -23,12 +23,13 @@ organizations:
     url: https://buzsakilab.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include translational neuroscience, non-invasive brain stimulation and XXX.
+bio: My research interests include translational neuroscience, non-invasive brain stimulation and neuroscience tool development.
 
 # Interests to show in About widget
 interests:
-  - XXX
-  - YYY
+  - Translational neuroscience
+  - Teaching
+  - Tool development
 
 # Education to show in About widget
 education:
@@ -48,21 +49,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
+#      header: true
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=iWWbUqsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/misiVoroslakos
+  - icon: youtube
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.youtube.com/@mihalyvoroslakos7232
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.

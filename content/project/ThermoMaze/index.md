@@ -9,7 +9,7 @@ date: '2023-07-04T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Experimental setup
+#  caption: Experimental setup
   focal_point: Smart
 
 links:
@@ -23,7 +23,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 In mammals, two fundamental brain states can be readily identified by basic electrophysiological monitoring: “preparative” and “consummatory” states. Consummatory behaviors include eating, drinking, and resting – including non-rapid eye movement sleep. Revealing the significance of switching between these states for cognition requires collecting a sufficient amount of brain data and the experimental control of consummatory classes of behavior.

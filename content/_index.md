@@ -69,7 +69,7 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: featured
+    id: publication
     content:
       title: Featured Publications
       filters:
@@ -108,6 +108,16 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+  - block: collection
+    id: teaching
+    content:
+      title: Recent tutorials
+      filters:
+        folders:
+          - tutorials
+    design:
+      columns: '2'
+      view: compact
   - block: contact
     id: contact
     content:

@@ -25,21 +25,21 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include translational neuroscience, non-invasive brain stimulation and neuroscience tool development.
 
-# Interests to show in About widget
-interests:
-  - Translational neuroscience
-  - Teaching
-  - Tool development
+## Interests to show in About widget
+#interests:
+#  - Translational neuroscience
+#  - Teaching
+#  - Tool development
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Neuroscience
-      institution: University of Szeged, Hungary
-      year: 2020
-    - course: Doctor of Medicine
-      institution: University of Szeged, Hungary
-      year: 2012
+#education:
+#  courses:
+#    - course: PhD in Neuroscience
+#      institution: University of Szeged, Hungary
+#      year: 2020
+#    - course: Doctor of Medicine
+#      institution: University of Szeged, Hungary
+#      year: 2012
     
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -79,5 +79,9 @@ highlight_name: true
 ---
 
 I am a postdoctoral fellow in the Buzsáki lab at NYU School of Medicine in New York. I combine transcranial electrical stimulation (TES) in rodents with large-scale electrophysiology using Neuropixels and flexible probes, optogenetics, fiber-photometry, and BOLD-fMRI. 
+<br>
 After completing my medical degree, I started my PhD in neuroscience at the University of Szeged in Hungary. The major goals of my PhD research were to better understand the exact mechanisms by which TES could alter ongoing neural activity and to improve the spatial targeting of noninvasive neurostimulation therapies. 
+<br>
+<br>
+I believe in knowledge sharing, and I try to contribute by sharing my CAD designs, tutorials and lecture notes. 
 {style="text-align: justify;"}

@@ -1,25 +1,29 @@
 ---
-title: "Direct effects of transcranial electric stimulation on brain circuits in rats and humans"
+title: "Immediate neurophysiological effects of transcranial electrical stimulation"
+date: "2018-09-02T00:00:00Z"
+publishDate: "2018-09-09T00:00:00Z"
 authors:
+- Anli Liu
 - Mihály Vöröslakos
-- Yuichi Takeuchi
-- Kitti Brinyiczki
-- Tamás Zombori
-- Azahara Oliva
-- Antonio Fernández-Ruiz
-- Gábor Kozák
-- Zsigmond Tamás Kincses
-- Béla Iványi
-- György Buzsáki
+- Greg Kronberg
+- Simon Henin
+- Matthew R Krause
+- Yu Huang
+- Alexander Opitz 
+- Ashesh Mehta
+- Christopher C Pack
+- Bart Krekelberg
 - Antal Berényi
+- Lucas C Parra
+- Lucia Melloni
+- Orrin Devinsky
+- György Buzsáki
 author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
-date: "2018-09-01T00:00:00Z"
+- ""
+- ""
+#- ""
+#- "Write anything for this author, e.g.: Equal contribution"
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2018-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -42,9 +46,9 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: Science News
-   url: https://www.science.org/content/article/cadaver-study-casts-doubts-how-zapping-brain-may-boost-mood-relieve-pain
-url_pdf: https://www.nature.com/articles/s41467-018-02928-3
+# - name: Science News
+#   url: https://www.science.org/content/article/cadaver-study-casts-doubts-how-zapping-brain-may-boost-mood-relieve-pain
+url_pdf: https://www.nature.com/articles/s41467-018-07233-7
 url_code: ''
 url_dataset: ''
 url_poster: ''

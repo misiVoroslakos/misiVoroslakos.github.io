@@ -18,14 +18,9 @@
 {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
 
 <!-- About widget -->
-<div>
-  <a class="background-img" href="#img1"><img id="img1" src="img/footer.png" /></a>
-</div>
-
 <div class="row">
   <div class="col-12 col-lg-4">
     <div id="profile">
-      
 
       {{ if site.Params.features.avatar.gravatar }}
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="{{$person_page.Title}}">
@@ -45,7 +40,7 @@
               <rt>{{ $person.name_pronunciation }}</rt>
             </ruby>
           {{- else -}}
-            Nick Ballou
+            {{- $person_page.Title -}}
           {{- end -}}
         </h2>
 
@@ -85,22 +80,45 @@
 
     </div>
   </div>
-  <!-- Add "spacing" column - the col-lg-X values all need to add up to 12 for some reason. -->
-  <div class="col-12 col-lg-1">
-  </div>
-  <div class="col-12 col-lg-7">
-  <div class="vertical-center", align="justify">
+  <div class="col-12 col-lg-8">
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-    {{ if and $page.Params.widget $page.Title }}<h1 class="biography-title">{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+    {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
 
-
-   <div class="article-style">
-      <div class="main-content">{{ $person_page.Content }}</div>
-      <a class="btn btn-outline-primary btn-page-header btn-download" href="files/cv.pdf" target="_blank" rel="noopener">CV</a>
+    <div class="article-style">
+      {{ $person_page.Content }}
     </div>
 
-  </div>
+    <div class="row">
 
+      {{ with $person.interests }}
+      <div class="col-md-5">
+        <div class="section-subheading">{{ i18n "interests" | markdownify }}</div>
+        <ul class="ul-interests mb-0">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{ with $person.education }}
+      <div class="col-md-7">
+        <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
+        <ul class="ul-edu fa-ul mb-0">
+          {{ range .courses }}
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution | markdownify }}</p>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+    </div>
   </div>
 </div>

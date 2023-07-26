@@ -1,23 +1,25 @@
 ---
-title: "Multilayer Arrays for Neurotechnology Applications (MANTA): Chronically Stable Thin‐Film Intracortical Implants"
+title: "Direct effects of transcranial electric stimulation on brain circuits in rats and humans"
 authors:
-- Christian Böhler
-- Maria Vomero
-- Marisol Soula
 - Mihály Vöröslakos
-- Maria Porto Cruz
-- Rickard Liljemalm
-- György Buzsaki
-- Thomas Stieglitz
-- Maria Asplund
+- Yuichi Takeuchi
+- Kitti Brinyiczki
+- Tamás Zombori
+- Azahara Oliva
+- Antonio Fernández-Ruiz
+- Gábor Kozák
+- Zsigmond Tamás Kincses
+- Béla Iványi
+- György Buzsáki
+- Antal Berényi
 author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2023-09-01T00:00:00Z"
+date: "2018-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +28,10 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Advanced Science, 10.14 (2023)"
+publication: "Nature communications, 9.1 (2018)"
 publication_short: ""
 
-abstract: Flexible implantable neurointerfaces show great promise in addressing one of the major challenges of implantable neurotechnology, namely the loss of signal connected to unfavorable probe tissue interaction. The authors here show how multilayer polyimide probes allow high‐density intracortical recordings to be combined with a reliable long‐term stable tissue interface, thereby progressing toward chronic stability of implantable neurotechnology. The probes could record 10–60 single units over 5 months with a consistent peak‐to‐peak voltage at dimensions that ensure robust handling and insulation longevity. Probes that remain in intimate contact with the signaling tissue over months to years are a game changer for neuroscience and, importantly, open up for broader clinical translation of systems relying on neurotechnology to interface the human brain.
+abstract: Transcranial electric stimulation is a non-invasive tool that can influence brain activity; however, the parameters necessary to affect local circuits in vivo remain to be explored. Here, we report that in rodents and human cadaver brains, ~75% of scalp-applied currents are attenuated by soft tissue and skull. Using intracellular and extracellular recordings in rats, we find that at least 1 mV/mm voltage gradient is necessary to affect neuronal spiking and subthreshold currents. We designed an ‘intersectional short pulse’ stimulation method to inject sufficiently high current intensities into the brain, while keeping the charge density and sensation on the scalp surface relatively low. We verify the regional specificity of this novel method in rodents; in humans, we demonstrate how it affects the amplitude of simultaneously recorded EEG alpha waves. Our combined results establish that neuronal circuits are instantaneously affected by intensity currents that are higher than those used in conventional protocols.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,10 +40,11 @@ tags:
 - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202207576
+# Custom links (uncomment lines below)
+links:
+ - name: Science News
+   url: https://www.science.org/content/article/cadaver-study-casts-doubts-how-zapping-brain-may-boost-mood-relieve-pain
+url_pdf: https://www.nature.com/articles/s41467-018-02928-3
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -53,9 +56,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

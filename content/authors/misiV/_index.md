@@ -19,7 +19,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: NYU Grossman School of Medicine  
-  - lab: Buzsaki Lab
+  - name: Buzsaki Lab
     url: https://buzsakilab.com/
 
 # Short bio (displayed in user profile at end of posts)
@@ -76,12 +76,12 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
----
 
-I am a postdoctoral fellow in the Buzsáki lab at NYU School of Medicine in New York. I combine transcranial electrical stimulation (TES) in rodents with large-scale electrophysiology using Neuropixels and flexible probes, optogenetics, fiber-photometry, and BOLD-fMRI. 
+---
+</br ></br > I am a postdoctoral fellow in the [Buzsáki lab](https://buzsakilab.com/wp/) at NYU School of Medicine in New York. I combine transcranial electrical stimulation (TES) in rodents with large-scale electrophysiology using Neuropixels and flexible probes, optogenetics, fiber-photometry, and BOLD-fMRI. 
 <br>
 After completing my medical degree, I started my PhD in neuroscience at the University of Szeged in Hungary. The major goals of my PhD research were to better understand the exact mechanisms by which TES could alter ongoing neural activity and to improve the spatial targeting of noninvasive neurostimulation therapies. 
 <br>
 <br>
-I believe in knowledge sharing, and I try to contribute by sharing my CAD designs, tutorials and lecture notes. 
+I believe in knowledge sharing, and I try to contribute by sharing my [CAD designs](https://github.com/misiVoroslakos/3D_printed_designs) and [video tutorials](https://www.youtube.com/channel/UCdvYlo8MudbP35X_S4nmQ-A?app=desktop). 
 {style="text-align: justify;"}

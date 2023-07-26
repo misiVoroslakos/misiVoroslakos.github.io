@@ -9,7 +9,7 @@ date: '2023-07-04T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Experimental setup
+  caption: 'Image credit: [**Adobe Stock**](https://stock.adobe.com/images/hand-drawn-line-art-human-brain-and-heart-halfs-logic-and-emotion-priority-concept-print-or-tattoo-design-isolated-on-white-background-vector-illustration/203938417?prev_url=detail)'
   focal_point: Smart
 
 links:

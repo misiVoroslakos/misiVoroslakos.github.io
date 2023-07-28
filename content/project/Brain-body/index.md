@@ -1,9 +1,10 @@
 ---
 title: Brain-body relationships
 summary: Understanding connections between the brain and body in health and disease.
+weight: 30
 tags:
   - Brain-body
-date: '2023-07-04T00:00:00Z'
+date: '2023-07-01T03:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

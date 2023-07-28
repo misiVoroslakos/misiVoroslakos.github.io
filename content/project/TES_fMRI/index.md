@@ -1,6 +1,6 @@
 ---
 title: TES-fMRI in rats
-summary: Whole brain mapping of TES-induced effects by BOLD-fMRI in anesthetized rats. 
+summary: Integrating Transcranial Electrical Stimulation (TES) with MR imaging techniques allows allows not only to study how stimulation affects targeted brain regions but also to understand its impact on anatomical and functional connectivity. TES-fMRI can offer crucial insights into the most effective ways, locations, and timing for stimulation.
 tags:
   - TES-fMRI
 date: '2023-07-04T00:00:00Z'
@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ''
-url_pdf: ''
+url_pdf: 'Whole brain mapping of transcranial electrical stimulation-induced effects by BOLD-fMRI in rats.pdf'
 url_slides: ''
 url_video: ''
 

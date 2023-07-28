@@ -1,6 +1,6 @@
 ---
 title: Circuit Resonance
-summary: Exploiting network resonance by TES.
+summary: In this project, I'm exploring the concept of resonance, which refers to the maximum response of a network to a periodic input within a specific frequency range. I'm specifically investigating how electrical stimulation's spatial specificity depends on intrinsic cellular properties and network mechanisms. 
 tags:
   - Circuit Resonance
 date: '2023-07-04T00:00:00Z'

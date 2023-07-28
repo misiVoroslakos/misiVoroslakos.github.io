@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Mihaly Voroslakos
+title: Mihály Vöröslakos
 
 # Full name (for SEO)
-first_name: Mihaly
-last_name: Voroslakos
+first_name: Mihály
+last_name: Vöröslakos
 
 # Status emoji
 status:

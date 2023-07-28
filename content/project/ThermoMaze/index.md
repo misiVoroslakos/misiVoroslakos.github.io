@@ -1,9 +1,9 @@
 ---
 title: ThermoMaze
-summary: A behavioral paradigm for readout of immobility-related brain events.
+summary: In mammals, two fundamental brain states can be readily identified by basic electrophysiological monitoring "preparative" and "consummatory" states. Revealing the significance of switching between these states for cognition requires collecting a sufficient amount of brain data and the experimental control of consummatory classes of behavior (eating, drinking and resting). <br /><br /> In this project, we developed the ThermoMaze, a behavioral paradigm that induces heat seeking behavior and guides mice to multiple positions in a two-dimensional cold environment.
 tags:
   - ThermoMaze
-date: '2023-07-04T00:00:00Z'
+date: '2023-06-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ''
-url_pdf: ''
+url_pdf: 'ThermoMaze_preprint.pdf'
 url_slides: ''
 url_video: ''
 

@@ -1,10 +1,11 @@
 ---
-title: Slides
+title: Transcranial electrical stimulation (TES) induced synaptic plasticity in freely moving rats
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
 categories: []
 date: '2019-02-05T00:00:00Z'
+url_slides: 'static/2022_TRIP_Transcranial electrical stimulation (TES) induced synaptic plasticity in freely moving rats.pdf'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black

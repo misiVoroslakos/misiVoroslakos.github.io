@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: Transcranial electrical stimulation (TES) induced synaptic plasticity in freely moving rats
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: TRANSLATIONAL RESEARCH IN PROGRESS SEMINAR, NYU Langone Health
+event_url: https://med.nyu.edu/departments-institutes/medicine/research/trip-seminars
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: New York
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: In this talk I describe how we can measure non-invasive brain stimulation induced neuroplastic changes in freely moving rats.
+abstract: 5 - 800 million people suffer from neurological or psychiatric disorders. Sadly, a significant portion of these patients don't respond to medications, leaving them with treatment-resistant disorders. Furthermore, the number of new drugs being developed for psychiatric disorders is limited, as some big pharmaceutical companies have shifted their focus away from neuroscience research. <br /><br /> To address these challenges,non-pharmacological techniques have been developed, including deep brain stimulation (DBS) and transcranial electrical stimulation (tDCS). While DBS has shown success, it's invasive, prompting researchers to explore non-invasive options like tDCS. This technique is appealing due to its simplicity and low cost. The effects of tDCS depend on the location of stimulation electrodes and the orientation of neurons relative to the electric field. These factors influence whether tDCS leads to neuron depolarization or hyperpolarization. By understanding these mechanisms, we can tailor tDCS for different conditions and brain regions. During tDCS, neurons experience subthreshold membrane polarization, which can lead to earlier action potentials. The intriguing part is that these effects can persist for minutes or even hours after the stimulation is turned off, known as long-lasting effects of tDCS. Animal studies have shed light on various cellular mechanisms involved in tDCS-induced neuroplasticity, including changes in firing rate, long-term potentiation, NMDA receptors, BDNF, and more. <br /><br /> To translate these findings to humans, we need to understand the electric fields generated in the brain during tDCS. To measure electric fields in rodents, I used a neuropixels probe and recorded from hippocampus and visual cortex simultaneously. My preliminary experiments showed that tDCS induced changes in neuronal firing rates that lasted for at least 50 minutes. The effects were more pronounced in the hippocampus, which is better aligned with the induced electric fields. <br /><br /> Overall, this research provides insight into tDCS's potential to induce neuroplasticity and its effects on different brain regions. By optimizing stimulation protocols, we can explore state-dependent changes and better understand tDCS's applications in human neuroplasticity.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-07-18T13:00:00Z'
+#date_end: '2022-07-18T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -31,17 +31,17 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  #focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: '2022_TRIP_Transcranial electrical stimulation (TES) induced synaptic plasticity in freely moving rats_onlineVer.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
@@ -49,7 +49,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -59,15 +59,3 @@ slides: example
 projects:
   - example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.

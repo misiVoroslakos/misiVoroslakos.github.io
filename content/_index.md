@@ -16,11 +16,11 @@ sections:
       title: Skills
       items:
         - name: Electrophysiology
-          description: Freely moving mice and rats <br><br> Silicon probes <br> Neuropixels 2.0 <br> Flexible probes
+          description: Freely moving mice and rats <br><br> Neuropixels 2.0 <br> Silicon probes <br> Flexible probes
           icon: ephys_icon
           icon_pack: custom
         - name: Optogenetics
-          description: Freely moving and head-fixed mice <br><br> Optrodes <br> uLED probe <br> Waveguide probe
+          description: Freely moving and head-fixed mice <br><br> Optrodes <br> μLED probe <br> Waveguide probe
           icon: optogenetics_icon
           icon_pack: custom
         - name: Brain stimulation

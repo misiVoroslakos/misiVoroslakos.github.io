@@ -1,6 +1,6 @@
 ---
 title: Circuit Resonance
-summary: In this project, I'm exploring the concept of resonance, which refers to the maximum response of a network to a periodic input within a specific frequency range. I'm specifically investigating how electrical stimulation's spatial specificity depends on intrinsic cellular properties and network mechanisms. 
+summary: The term "resonance" denotes the highest level of response exhibited by a neuronal network when subjected to a periodic input limited within a particular frequency range. <br /> The focus of my investigation lies in exploring the potential utilization of intrinsic cellular properties and network mechanisms to enhance the spatial specificity of Transcranial Alternating Current Stimulation (tACS).
 tags:
   - Circuit Resonance
 date: '2023-07-04T00:00:00Z'

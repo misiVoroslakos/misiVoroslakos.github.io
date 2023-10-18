@@ -76,7 +76,6 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
 ---
 I am a postdoctoral researcher from the [Buzsáki lab](https://buzsakilab.com/wp/) at NYU School of Medicine in New York. Through my multi-disciplinary approach, I acquired first-hand knowledge about the challenges of translational neuroscience. Testing brain stimulation in animals and humans during my MD/PhD has made me aware of the progress needed for TES to become a reliable experimental and therapeutical tool. 
 </br ></br >

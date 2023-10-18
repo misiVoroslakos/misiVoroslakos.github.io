@@ -33,4 +33,28 @@ author: misiV
 ### Recoverable metal microdrive
 <br />
 Metal microdrive for silicon probe recordings. Below are necessary design files and detailed instructions for assembling the microdrives yourself. You may also order them from our production partner 3Dneuro.
-![screen reader text](recoverable_microdrive_01.png "Figure 1. Adding extra LFP channel to silicon probe")
+
+![screen reader text](recoverable_microdrive_01.jpg "Figure 1. Recovering a silicon probe")
+
+#### Ordering and assemble the drive yourself
+The .step files are optimized for stainless steel 316L, 20 micrometer resolution and aluminum AlSi10Mg, high resolution using Proto Labs (https://www.protolabs.com/). Download step files from our [GitHub repository](https://github.com/buzsakilab/3d_print_designs/tree/master/Microdrives/Metal_recoverable).
+<br />
+<br />
+{{< table path="results.csv" header="true" caption="Table 1: BOM metal microdrive" >}}
+
+**In order to receive high quality prints from ProtoLabs, please follow these instructions:**
+<br />
+Add the following note to drive_v09: “Use orientation as in quote 9301-742”
+<br />
+Add the following note to arm_v09_aluminum: “Use orientation as in quote 2379-080”
+<br />
+<br />
+For other printers, materials or printing companies, modifications may be necessary.
+<br />
+<br />
+To purchase fully assembled drives, please contact [3Dneuro](https://www.3dneuro.com/products/r2drive/) (our partner in production).
+<br />
+<br />
+**Assembly instructions**
+<br />
+See [assembly video](https://www.youtube.com/watch?v=poEjWvFrr5g&feature=youtu.be). Detailed assembly instructions are available for the [metal microdrive](https://github.com/buzsakilab/3d_print_designs/blob/master/Microdrives/Metal_recoverable/assembly_instructions_microdrive_metal_v10.pdf) and for the [implantation tool](https://github.com/buzsakilab/3d_print_designs/blob/master/Microdrives/Metal_recoverable/assembly_instructions_implantation_tool_metal_v10.pdf).

@@ -1,7 +1,7 @@
 ---
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: Head-fixed setup
+widget: optotagging
 
 # Activate this widget? true/false
 active: true
@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 'Head-fixed setup'
+title: 'Optotagging in freely moving animals'
 
 # [design.spacing]
 # Customize the section spacing. Order is top, right, bottom, left.

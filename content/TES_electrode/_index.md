@@ -1,7 +1,7 @@
 ---
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: TES_electrode
+widget: tes_electrode
 
 # Activate this widget? true/false
 active: true

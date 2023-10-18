@@ -37,7 +37,7 @@ main:
     parent: "Open Research"
     weight: 70
   - name: TES electrode
-    url: 'TES_electrode'
+    url: 'tes_electrode'
     parent: "Open Research"
     weight: 80  
   - name: Optotagging protocol

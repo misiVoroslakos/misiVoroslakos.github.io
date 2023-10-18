@@ -34,7 +34,9 @@ author: misiV
 ### Outline
 1. Introduction
 2. Equipment and considerations
-3. Overview of technologies
+3. Multi-regional recordings
+4. Overview of technologies
+5. Closing remarks
 
 ### Introduction
 Extracellular single-unit measures – which are not always available in animals and are rarely possible in humans – provides one of the most direct read-out of neural activity. The extracellular electrode can record ‘single-unit activity’ or ‘spikes’ of several neurons because each recording channel has a sensing range of 65 to 140 μm ([Gray, 1995](https://www.sciencedirect.com/science/article/pii/0165027095000852) and [Henze, 2000](https://journals.physiology.org/doi/epdf/10.1152/jn.2000.84.1.390)). Electrophysiological methods can measure the activity of individual neurons at high temporal resolution (millisecond scale).  <br /> 
@@ -66,6 +68,19 @@ Once you have your ref/gnd, you can implant a probe to measure the neuronal acti
 ## Microdrives
 **How to hold and move your probe once it is in the brain?** 
 <br />
-Acute probes can be attached to any commercial manipulators. Chronic probes are typically attached to a mechanical shuttle (called microdrive) that can move the probe in the 'z-axis'. There are many different microdrives available. An important thing to consider is the travel distance of the microdrive, how much you can move in the brain, and weight of the microdrive. 3D-printed plastic drives will be cheaper and lighter than metal ones. We have designed a [recoverable, metal microdrive](https://elifesciences.org/articles/65859) to improve probe reusability. 
+Acute probes can be attached to any commercial manipulators. Chronic probes are typically attached to a mechanical shuttle (called microdrive) that can move the probe in the 'z-axis'. There are many different microdrives available. An important thing to consider is the travel distance of the microdrive, how much you can move in the brain (**Fig. 4.**), and weight of the microdrive. 3D-printed plastic drives will be cheaper and lighter than metal ones. We have designed a [recoverable, metal microdrive](https://elifesciences.org/articles/65859) to improve probe reusability. 
+![screen reader text](ephys_setup_page_05.png "Figure 4. Adjusting arm before surgery")
 <br />
+### Multi-regional recordings in a cost effective way
+Let's assume that you want to record LFP from another brain region than your main target. One great solution is to ask probe companies to place wires on your probe. This means that you will loose one recording channel from your silicon probe, but you can use a tungsten wire to record LFP/MUA from another brain region. This way, you don't need two headstages, you can record easily multiple brain regions. If you have never built a tungsten LFP electrode, check out my [how to build a tungsten LFP electrode](https://www.youtube.com/watch?v=bnvRavUz4W0) video tutorial. 
+![screen reader text](ephys_setup_page_06.png "Figure 5. Adding extra LFP channel to silicon probe")
+
 ### Overview of technologies
+Recent years showed an amazing increase in available technologies. Increasing the number of recording channels yield more single units per session. [Neuropixels 2.0](https://www.neuropixels.org/) became commercially available, [Sinaps probe provides 1024 channels](https://www.neuronexus.com/products/electrode-arrays/sinaps/) to record from simultanously. [Double-sided probes](https://diagnosticbiochips.com/janus) can increase the single-unit yield because you can 'see' neurons on both sides of the shanks. Electronics are miniaturized, cables are getting thinner, commutators are becoming predictive, wireless systems are also being used by more and more labs. Light sources are being integrated on the recording electrodes either as a [micro-LED](https://www.sciencedirect.com/science/article/pii/S0896627315009265), or using [waveguides](https://www.nature.com/articles/s41378-018-0009-2).
+<br />
+Despite all these new techniques, don't forget that the Nobel Prize in Physiolgy and Medicine (2014) was awarded for work that was achieved using wires and tetrodes.
+
+### Closing remarks
+The most important thing to remember is that silicon microelectrodes are fragile. When I am handling probes, I always try to plan my movements in my head, check my surroundings and make sure my hand, tweezer will not bump into anything. Once I make sure that my movement is safe for the probe, then I execute the movement. This seems silly, but the most common thing is that you have a probe under the microscope in the workshop, someone asks you a question, you turn away and when you turn back you realize that your shanks are gone (based on experience). 
+<br />
+Having used silicon probes from companies, Neuropixels, Sinaps, micro-LED, I can say that all those are 'just' silicon probes. Yes, some of them extremely fancy (and costly), but the main principles how to handle and use them is the same. 

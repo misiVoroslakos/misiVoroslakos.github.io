@@ -30,3 +30,7 @@ css_style: "padding-top: 20px; padding-bottom: 20px;"
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: misiV
 ---
+### Recoverable metal microdrive
+<br />
+Metal microdrive for silicon probe recordings. Below are necessary design files and detailed instructions for assembling the microdrives yourself. You may also order them from our production partner 3Dneuro.
+![screen reader text](recoverable_microdrive_01.png "Figure 1. Adding extra LFP channel to silicon probe")

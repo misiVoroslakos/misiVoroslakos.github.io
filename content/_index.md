@@ -102,8 +102,8 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent Talks
-      #subtitle: This is a home for invited talks and workshops, each linked with accompanying materials.
+      title: Talks
+      subtitle: This is a home for invited talks and workshops, each linked with accompanying materials.
       filters:
         folders:
           - event
@@ -115,16 +115,6 @@ sections:
   #    title: Popular Topics
   #  design:
   #    columns: '2'
-  - block: collection
-    id: teaching
-    content:
-      title: Recent tutorials
-      filters:
-        folders:
-          - tutorials
-    design:
-      columns: '2'
-      view: compact
   - block: contact
     id: contact
     content:

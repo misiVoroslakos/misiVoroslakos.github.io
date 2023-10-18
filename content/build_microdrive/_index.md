@@ -57,4 +57,6 @@ To purchase fully assembled drives, please contact [3Dneuro](https://www.3dneuro
 <br />
 **Assembly instructions**
 <br />
-See [assembly video](https://www.youtube.com/watch?v=poEjWvFrr5g&feature=youtu.be). Detailed assembly instructions are available for the [metal microdrive](https://github.com/buzsakilab/3d_print_designs/blob/master/Microdrives/Metal_recoverable/assembly_instructions_microdrive_metal_v10.pdf) and for the [implantation tool](https://github.com/buzsakilab/3d_print_designs/blob/master/Microdrives/Metal_recoverable/assembly_instructions_implantation_tool_metal_v10.pdf).
+See [assembly video](https://www.youtube.com/watch?v=poEjWvFrr5g&feature=youtu.be). 
+<br />
+Detailed assembly instructions are available for the [metal microdrive](assembly_instructions_microdrive_metal_v10.pdf) and for the [implantation tool](assembly_instructions_implantation_tool_metal_v10.pdf).

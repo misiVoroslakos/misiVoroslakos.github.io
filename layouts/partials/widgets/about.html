@@ -18,6 +18,10 @@
 {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
 
 <!-- About widget -->
+<div>
+  <a class="background-img" href="#img1"><img id="img1" src="images/footer.png" /></a>
+</div>
+
 <div class="row">
   <div class="col-12 col-lg-4">
     <div id="profile">
@@ -81,8 +85,8 @@
     </div>
   </div>
   <div class="col-12 col-lg-8">
-
-    {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
+  
+  {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
     {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
 
     <div class="article-style">

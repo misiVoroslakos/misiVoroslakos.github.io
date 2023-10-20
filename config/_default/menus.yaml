@@ -22,6 +22,9 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
+  - name: About
+    url: 'about_me'
+    weight: 80
 
 # Sub-home menu
   - name: Ephys setup
